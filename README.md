@@ -2,7 +2,7 @@
 
 A minimal docker image that provides a docker image with apollo cli
 
-You can find the Docker image on DockerHub [here](https://hub.docker.com/repository/docker/meisterplan/build-apollo).
+You can find the Docker image on DockerHub [here](https://hub.docker.com/r/meisterplan/apollo-cli).
 
 ## Currently Available Tags
 
